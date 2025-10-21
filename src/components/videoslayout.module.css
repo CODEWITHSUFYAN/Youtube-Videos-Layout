@@ -1,0 +1,36 @@
+.layout {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin: 70px 0px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 380px;
+    height: 370px;
+    /* background-color: red; */
+}
+
+.thumbnail img {
+    width: 100%;
+    border-radius: 20px;
+    height: 200px;
+}
+
+.text {
+    color: #fff;
+    padding-left: 14px;
+    padding-top: 10px; 
+}
+
+.text h3 {
+    line-height: 30px;
+}
+
+.text p{
+    color: rgb(130, 130, 130);
+}
+
+
