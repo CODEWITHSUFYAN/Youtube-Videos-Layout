@@ -3,8 +3,6 @@ import style from "./videoslayout.module.css"
 
 
 const videoslayout = ({video}) => {
-  console.log(video);
-  
   return (
         <div className={style.card}>
             <div className={style.thumbnail}>
