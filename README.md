@@ -10,6 +10,8 @@ This project demonstrates component-based architecture, reusable UI design, and 
 
 - 🎥 Responsive video grid layout     
 - 🧩 Reusable and clean component structure    
-- 🎨 Main CSS File for custom styling **index.css**  
+- 🎨 Main CSS File for custom styling **index.css**
+- ⚡ Lightweight and fast performance  
+- 💡 Easy to customize and extend  
 
 ---
